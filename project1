@@ -1,0 +1,1010 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>中華一番</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css ">
+
+ <style type="text/css"> 
+    .back-to-top {
+    position: fixed;
+    bottom: 2em;
+    right: 0px;
+    text-decoration: none;
+    color: #000000;
+    background-color: rgba(235, 235, 235, 0.80);
+    font-size: 12px;
+    padding: 1em;
+    display: none;
+}
+
+.back-to-top:hover {    
+    background-color: rgba(135, 135, 135, 0.50);
+}
+  </style> 
+
+
+
+
+
+</head>
+<body>
+<div class="container">
+	<div class="row clearfix">
+		<div class="col-md-12 column">
+			<div class="page-header">
+				<h1 class="text-center">
+					<strong>中華一番</strong>
+				</h1>
+			</div>
+			<div class="carousel slide" id="carousel-906218">
+				<ol class="carousel-indicators">
+					<li data-slide-to="0" data-target="#carousel-906218">
+					</li>
+					<li data-slide-to="1" data-target="#carousel-906218">
+					</li>
+					<li data-slide-to="2" data-target="#carousel-906218" class="active">
+					</li>
+				</ol>
+				<div class="carousel-inner">
+					<div class="item">
+						<img class="img-responsive center-block" src="http://i246.photobucket.com/albums/gg111/eva96s/-4-1.jpg" />
+						<div class="carousel-caption">
+							<h4>
+								
+							</h4>
+							<p>
+								
+							</p>
+						</div>
+					</div>
+					<div class="item">
+						<img class="img-responsive center-block" src="http://i246.photobucket.com/albums/gg111/eva96s/-1-6.jpg" />
+						<div class="carousel-caption">
+							<h4>
+								
+							</h4>
+							<p>
+								
+							</p>
+						</div>
+					</div>
+					<div class="item active">
+						<img class="img-responsive center-block" src="http://i246.photobucket.com/albums/gg111/eva96s/-11.jpg" />
+						<div class="carousel-caption">
+							<h4>
+								
+							</h4>
+							<p>
+								
+							</p>
+						</div>
+					</div>
+				</div> <a class="left carousel-control" href="#carousel-906218" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a> <a class="right carousel-control" href="#carousel-906218" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+			</div>
+		</div>
+	</div>
+	<div class="row clearfix">
+		<div class="col-md-3 column">
+		
+			<ul class="nav nav-pills nav-stacked">
+        <li class="active"><a href=" "><strong>以片尾曲分集數</strong></a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">邂逅晴空 <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li>
+            	            	<a href="#1"> 天才料理少年小當家</a>
+            	            	<a href="#2"> 魔幻麻婆豆腐對決</a>
+            	            	<a href="#3"> 朝特級廚師的目標，加油</a>
+            	            	<a href="#4"> 無情的陽泉酒家門規</a>
+            	            	<a href="#5"> 打破傳統！打倒陽泉酒家</a>
+            	            	<a href="#6"> 火焰廚師！餃子兄弟</a>
+            	            	<a href="#7"> 卑鄙的手段，沒有退路的小當家</a>
+            	            	<a href="#8"> 對決！神龍餃子</a>
+            	            	<a href="#9"> 向夢想挑戰！特級廚師大考驗</a>
+            	            	<a href="#10"> 終極絕招！國士無雙的麵</a>
+            	            </li>
+          </ul>
+        </li>
+
+          <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">礦物質 <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li>
+            	            	<a href="#11"> 最後決戰！傳說中的鬥味場</a>
+            	            	<a href="#12"> 宿命天才美少年廚師，阿飛</a>
+            	            	<a href="#13"> 鯰魚麵完成！命運的審判</a>
+            	            	<a href="#14"> 王者之冠！光榮的徵章</a>
+            	            	<a href="#15"> 天才料理少年，四郎</a>
+            	            	<a href="#16"> 超級波霸，小心陷入美人計</a>
+            	            	<a href="#17"> 甦醒吧，神秘的鍋巴料理</a>
+            	            	<a href="#18"> 紅色恐怖，鬼屋裡的秘密</a>
+            	            	<a href="#19"> 愛的千鶴橋，銀河麵</a>
+            	            	<a href="#20"> 招來不幸的黑雞</a>
+            	            	<a href="#21"> 大陸最強的男人，向陽泉酒家挑戰</a>
+            	            	<a href="#22"> 擊墜王，小當家是下一個目標</a>
+            	            	<a href="#23"> 發光吧，宇宙大燒賣</a>
+            	            	<a href="#24"> 神秘邀請函，面具廚師的陷阱</a>
+            	            	<a href="#25"> 承襲決戰意志，異人館的血戰</a>
+            	            	<a href="#26"> 致勝王牌，輕狂的惡魔</a>
+            	            	<a href="#27"> 壯烈，復仇的最後樂章</a>
+            	            	<a href="#28"> 野外料理友誼賽</a>
+            	            	<a href="#29"> 來自黑暗的刺客，冷血天才雷恩</a>
+            	            	<a href="#30"> 惡魔的切口，怪刀七星刀</a>
+            	            	<a href="#31"> 囊括四大中華，真鯛大陸圖</a>
+            	            	<a href="#32"> 火與冰，決戰廚師魂</a>
+            	            	<a href="#33"> 傳說的廚具，永靈刀的秘密</a>
+            	            	<a href="#34"> 魔都上海，黑暗料理界的宣戰</a>
+            	            	<a href="#35"> 水上大鬥味場，鐵碗湯的魔力</a>
+            	            	<a href="#36"> 阿Q特製，冷卻煮凝湯</a>
+            	            </li>                      
+          </ul>
+        </li>
+
+          <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">如風一般自由 <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+             <li>
+            	            	<a href="#37"> 麵點王羅根，一千六百年的鎮魂包子</a>
+            	            	<a href="#38"> 超級點心大對決，驚人的比賽結果</a>
+            	            	<a href="#39"> 另一組七星刀，神祕美人向恩</a>
+            	            	<a href="#40"> 覺醒吧，雷恩，廚師的使命</a>
+            	            	<a href="#41"> 摧毀邪惡之劍，神聖的七星刀</a>
+            	            	<a href="#42"> 復仇魔紹安，因緣了結</a>
+            	            	<a href="#43"> 小當家的實力，大魔術熊貓豆腐</a>
+            	            	<a href="#44"> 驚人的結果，阿貝師父的手掌心</a>
+            	            	<a href="#45"> 燃燒的長江，紹安葬身大海</a>
+            	            	<a href="#46"> 拯救解師父，麵的大風暴</a>
+            	            	<a href="#47"> 魔神降臨，魔聖銅器的奇蹟</a>
+            	            	<a href="#48"> 劃破天際的星，特製慧星炒飯</a>
+            	            	<a href="#49"> 黑暗的迷宮，一碗結合兩心的粥</a>
+            	            	<a href="#50"> 帝都北京，黑暗料理界的魔掌</a>
+            	            	<a href="#51"> 天才阿飛的絕招，新滿漢全席</a>
+            	            	<a href="#52"> 大逆轉，英勇廚師們的光榮    </a>
+            	            </li>                        
+          </ul>
+        </li>
+        
+      </ul>
+			
+	
+
+		</div>
+		<div class="col-md-1 column">
+		</div>
+
+		<div class="col-md-8 column">
+					<h2 class="text-center" id="1">
+				<strong>天才料理少年小當家</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					母親阿貝過世後，小當家與姊姊撐起國營餐館菊下樓，不料以前母親的徒弟紹安竟自稱新掌廚來店裡找碴……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/dn5pygfQpjg"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="2">
+				<strong>魔幻麻婆豆腐對決</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					重現傳說中六味一體的?麻婆豆腐?，李提督要求贏了比賽的小當家到廣州學習，並取得特級廚師的資格……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/oiPGFwn7gew"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="3">
+				<strong>朝特級廚師的目標，加油</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					到了李提督介紹的陽泉酒家，大廚及弟用?炒青江菜?徹底打擊了小當家，多虧老爺爺的指引發現了盲點……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/05sPNd6T7HE"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="4">
+				<strong>無情的陽泉酒家門規</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					陽泉酒家的門規就是有一人加入就必需有一人離開，所以小當家決定助阿Q做出一道無可挑剔的?青椒肉絲? ……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/a5n7ECgBBSw"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="5">
+				<strong>打破傳統！打倒陽泉酒家</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					小當家和被迫離開的阿Q用柿子創造出獨一無二的青椒肉絲，得以重返師門，但阿Q卻選擇回到父親的身邊……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/7Zf2524wrJ4"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="6">
+				<strong>火焰廚師！餃子兄弟</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					陽泉酒家的及第大廚所創作的鳳凰翡翠餃十足具冠軍相，但這時卻出現了一對來路不明的餃子兄弟到處破壞……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/lco-n614CIQ"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="7">
+				<strong>卑鄙的手段，沒有退路的小當家</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					卑鄙的手段！臨危受命的小當好不容易做好的煎餃，居然也被餃子兄弟動了手腳，不灰心他立刻重做……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/86nCg5SCb38"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="8">
+				<strong>對決！神龍餃子</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					加場的神龍餃子在廣州餃子大賽中，小當家"昇龍餃子"和餃子兄弟的"巨龍餃"的外觀竟是一模一樣……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/mTniD5wRcsU"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="9">
+				<strong>向夢想挑戰！特級廚師大考驗</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					在大家的鼓勵下決定挑戰特級廚師的小當家，帶著姐姐特地從四川帶來的媽媽的各種工具和調味料迎向考驗……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/TfthTN4Oa-c"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="10">
+				<strong>終極絕招！國士無雙的麵</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					小當家的第一步竟然是先煮石頭，麵粉竟然也才要開始磨而已，眼看四位高手已經合格，就只剩下一個名額了……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/sPU09gEVBKU"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="11">
+				<strong>最後決戰！傳說中的鬥味場</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					小當家看起來平淡無奇的作品，卻在評判們的嘖嘖稱奇中通過考驗，原本以為測驗結束原來這才只是初試而已…		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/q6l2OnWlX-g"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="12">
+				<strong>宿命天才美少年廚師，阿飛</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					阿飛小當家終於踏入傳說中的鬥味場了，同時也道出阿飛童年往事及與阿貝夫人的淵源……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/N-41fibo8z4"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="13">
+				<strong>鯰魚麵完成！命運的審判</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					命運的審判好不容易進入特級廚師正式測驗，小當家的鯰魚麵對上小韓用牛肉做的麵和阿飛的馬鈴薯麵……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/wGTLI38PNt8"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="14">
+				<strong>王者之冠！光榮的徵章</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					原來小韓為了要贏，給了小當家和阿飛不公正的低分，因此實力不分上下的小當家和阿飛同獲廚師的頭銜……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/scCKzkFL6S4"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="15">
+				<strong>天才料理少年，四郎</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					小當家在得到特級廚師頭銜之後，開始了他的學習之旅而碰上了四郎，因此遇到了他們鎮上挑剔的知縣……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/s0v28aP5Ru4"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="16">
+				<strong>超級波霸，小心陷入美人計</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					學習之旅第二站來到了雲南省的曲青村，遇上的賈雄大師的餐館的波霸女主廚，失傳的神秘鍋巴料理……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/sroKxnTzNac"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="17">
+				<strong>甦醒吧，神秘的鍋巴料理</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					賈雄大師對人生的熱情，所以失傳的鍋巴和一般的鍋巴料理是不同的，原來這個神秘料理的餡料是包在裡面的…		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/qz-PLjtuS04"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="18">
+				<strong>紅色恐怖，鬼屋裡的秘密</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					企圖謀取財產的壞廚師在用摻了毒的紅粥控制了翡翠館一家人，所幸小當家用特製的"彩虹粥"解救他們……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/T0Z5hwCQ42Y"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="19">
+				<strong>愛的千鶴橋，銀河麵</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					小當家一行人走到了昆明郊外的星漢村，意外發現蕾雅與伊格雨無法結合的愛情，小當家的銀河麵誕生了……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/YkrLYPAGlpg"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="20">
+				<strong>招來不幸的黑雞</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					學習之旅的最後一站，他們來到了到處都是雞的雞窩鎮，地的雞料理評鏗大會，原來黑雞竟是傳說中的烏骨雞……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/lJ2alRiUY2o"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="21">
+				<strong>大陸最強的男人，向陽泉酒家挑戰</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					在15分鐘內用三種蛋作出一道菜，小當家用特製燒賣到底做出了什麼呢……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/qqT-KVmzHUY"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="22">
+				<strong>擊墜王，小當家是下一個目標</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					小當家代管陽泉酒家期間，突然出現了一個帶著鐵棒的男人解師父?擊墜王?執意對決要做出五十人份的燒賣……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/y8YwWEvv9NA"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="23">
+				<strong>發光吧，宇宙大燒賣</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					解師傅燒賣竟然歪了一邊，原來這是所謂黃金比例的完美燒賣對上小當家的大宇宙燒賣究竟會如何呢……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/CUtwAO4oxWU"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="24">
+				<strong>神秘邀請函，面具廚師的陷阱</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					神秘邀請函，及第在嘟嘟中毒的威脅下被迫與一位似乎是舊識的神秘人物對決……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/7TSqidZAqEg"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="25">
+				<strong>承襲決戰意志，異人館的血戰</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					小當家決心要替及第完成與面具廚師的三回合?龍蝦三爭霸?，面具廚師誓言要打敗小當家，以完成複仇大計……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/Dd9eJiULVIc"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="26">
+				<strong>致勝王牌，輕狂的惡魔</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					第三回合是?砂鍋料理?面具廚師拿出了存放十六年的……，原來那是他和及第在招親對決中預備的珍寶…		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/IbDqtjJ3RFo"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="27">
+				<strong>壯烈，復仇的最後樂章</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					復仇的最後樂章比賽進行的最後一回合，這時面具廚師竟然叫四郎決定勝負……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/ntRvlTKSJ8Q"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="28">
+				<strong>野外料理友誼賽</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					回到市區的解師父，竟遭到黑暗料理界的人的攻擊，而對方指名要找的人是小當家…		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/vr9VllzIA4g"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="29">
+				<strong>來自黑暗的刺客，冷血天才雷恩</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					十全大師的特別客人?來自黑暗的刺客，冷血天才雷恩?，然而他不同於四年前的善良……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/CbfpE_cDOf8"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="30">
+				<strong>惡魔的切口，怪刀七星刀</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					小當家的?百穴菜刀?和雷恩的?七星刀?，會讓巨大真鯛呈現出怎樣的作品呢……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/ebRyWdBJhBA"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="31">
+				<strong>囊括四大中華，真鯛大陸圖</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					小當家和雷恩在大仙寺展開了神前刀工對決比賽結果竟是平手，雷恩要求比延長賽……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/VexrHacX6cI"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="32">
+				<strong>火與冰，決戰廚師魂</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					雷恩用冰做成的"北辰天狼刃"，完成了生鯛魚片，小當家將鋼絲穿過百穴菜刀做成了第三把刀，鯛魚春捲……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/y4tX-6TnJmQ"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="33">
+				<strong>傳說的廚具，永靈刀的秘密</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					黑暗料理界頻繁的動作，讓十全老人決定派小當家等人去尋找其它七樣傳說中的廚具…		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/XtpCK3q6gF4"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="34">
+				<strong>魔都上海，黑暗料理界的宣戰</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					為尋找傳說中的廚具，小當家一行人來到了上海，竟被誤認是黑暗料理界的人，所幸阿Ｑ的出現化解了危機……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/EzAg_HDo_Ac"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="35">
+				<strong>水上大鬥味場，鐵碗湯的魔力</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					黑暗料理界挾持了上海大聯會的長老們，以傳說中廚具的地圖為賭注，要求小當家們與之展開料理對決……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/ohUhyWk65MY"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="36">
+				<strong>阿Q特製，冷卻煮凝湯</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					阿Q特製的甲魚湯贏了第一回合，第二回合比的是點心，麵點世家的麵點王羅根對上解師父……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/FnxT0wSBnAg"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="37">
+				<strong>麵點王羅根，一千六百年的鎮魂包子</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					原來羅根是白羅家的末代子弟，而白羅家正是發明包子的家族，而什麼都沒有的解師父，仍信心滿滿地……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/y8dmKbaG3Ew"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="38">
+				<strong>超級點心大對決，驚人的比賽結果</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					羅根做的是?四神海鮮八寶包子?；解師父做的?黃金開口笑?炸包子，居然會發出陣陣笑聲……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/iQ3_Mwpe5ks"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="39">
+				<strong>另一組七星刀，神祕美人向恩</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					接下來對方派出一丈青向恩，她指名要和雷恩比，眾目睽睽之下，她竟然拿出了和雷恩一模一樣的七星刀……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/jRRRdmArgQ8"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="40">
+				<strong>覺醒吧，雷恩，廚師的使命</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					雷恩完成了上海蟹料理中的極品?炸蟹斗?，但是向恩卻只做了?蟹肉蛋?……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/IZ2Mc1Wb91I"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="41">
+				<strong>摧毀邪惡之劍，神聖的七星刀</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					一丈青向恩利用味覺疲勞的手段讓評審們覺得雷恩的料理難吃，原來她的目的是要成為七星刀的唯一擁有者……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/tQybMT1dWTU"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="42">
+				<strong>復仇魔紹安，因緣了結</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					最後一回合，小當家的對手居然是紹安，小當家為化解仇恨提議用豆腐比賽，評審們則要求從黃豆開始做起……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/hWg_WWUyl78"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="43">
+				<strong>小當家的實力，大魔術熊貓豆腐</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					小當家泡好的黃豆居然被向恩動了手腳，全發酵成牽絲的納豆，卻得到靈感做出一道?大魔術熊貓豆腐?……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/MaYAEEzVb1Q"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="44">
+				<strong>驚人的結果，阿貝師父的手掌心</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					紹安的?豆腐三重奏?，原來是說從料到麵全都是用豆腐做的，究竟驚人的結果是誰勝誰敗呢……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/i9ru0sQfqyk"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="45">
+				<strong>燃燒的長江，紹安葬身大海</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					心灰意冷的紹安居然引爆樓麟艦企圖同歸於盡，正當大家坐困愁城之時幸好遇到船舶聯盟查一船長前來搭救……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/Ag6hasso9CY"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="46">
+				<strong>拯救解師父，麵的大風暴</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					尋找傳說中廚具的旅程遇見了一群雜技團的人，想不到竟被他們陷害解師父被冠上強盜的罪名，並要立刻處斬……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/7EJHz33XSpE"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="47">
+				<strong>魔神降臨，魔聖銅器的奇蹟</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					聽說九華山的人是以勤勞刻苦出名的，想不到小當家一行人來到九華所有人都懶洋洋的動都不動……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/Uoae2A6SoGQ"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="48">
+				<strong>劃破天際的星，特製慧星炒飯</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					為了教訓這個假借神明詐取斂財的壞廚師聲譽，小當家決定以流傳九華千年的慧星神的傳說來與他對抗……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/TDQqLp7ZVss"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="49">
+				<strong>黑暗的迷宮，一碗結合兩心的粥</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					小當家和嘟嘟竟被堵在如迷般的山洞裡面時，意外發現，能將鹽水化為淡水的氣鍋……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/vU8_nWtLpLU"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="50">
+				<strong>帝都北京，黑暗料理界的魔掌</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					黑暗料理界謀奪御膳房大廚的位子，小當家們意外闖入新大廚的就任典禮，想不到那個人竟是阿飛……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/NoBJSSqLB5Q"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="51">
+				<strong>天才阿飛的絕招，新滿漢全席</strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					御前料理對決規定要在三小時內做出一百道菜，阿飛以滿漢全席為主題很快就開始動手了，可是小當家卻……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/pn3al0zITNQ"></iframe>
+</div>    
+
+<hr>   
+					<h2 class="text-center" id="52">
+				<strong>大逆轉，英勇廚師們的光榮    </strong>
+			</h2>
+			<p>
+				</p><h4 class="text-left">
+					大逆轉，小當家請求皇上嚐一口的粥，竟然又再度打開皇上的食慾。終於獲得勝利……		
+				</h4>
+			<p></p>
+
+ <!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/m-02e2oe3QQ"></iframe>
+</div>    
+
+<hr>   
+		   
+
+       <div class="polis" data-page_id="PAGE_ID" data-site_id="polis_site_id_6grZrgc21AC5gQ7goo"><iframe src="https://embed.pol.is/polis_site_id_6grZrgc21AC5gQ7goo/PAGE_ID?parent_url=http%3A%2F%2Ftwkhan.lionfree.net%2Fproject2.html" width="100%" height="856" style="border: none; border-radius: 4px;"></iframe></div>
+		<script async="true" src="https://pol.is/embed.js"></script>
+          
+
+
+			<a href="#" class="back-to-top" style="display: inline;">Back to Top</a>
+		</div>
+
+	</div>
+  <hr>
+	<div class="row clearfix">
+		<div class="col-md-12 column">
+          <footer>
+          	<p>(╯°□°）╯︵ ┻━┻ </p>
+          	<script id="_wauwcy">var _wau = _wau || []; _wau.push(["classic", "k5qiecrzswkp", "wcy"]);
+				(function() {var s=document.createElement("script"); s.async=true;
+							s.src="http://widgets.amung.us/classic.js";
+						document.getElementsByTagName("head")[0].appendChild(s);
+							})();
+			</script>
+          </footer>
+		</div>
+	</div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<script type="text/javascript">
+	jQuery(document).ready(function() {
+    var offset = 220;
+    var duration = 500;
+    jQuery(window).scroll(function() {
+        if (jQuery(this).scrollTop() > offset) {
+            jQuery('.back-to-top').fadeIn(duration);
+        } else {
+            jQuery('.back-to-top').fadeOut(duration);
+        }
+    });
+    
+    jQuery('.back-to-top').click(function(event) {
+        event.preventDefault();
+        jQuery('html, body').animate({scrollTop: 0}, duration);
+        return false;
+    })
+});
+	
+</script>
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js "></script>
+</body>
+</html>
